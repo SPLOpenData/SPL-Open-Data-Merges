@@ -6,3 +6,9 @@ A few of the Seattle Public Library datasets published on [data.seattle.gov](htt
 **With:** Checkouts By Title (Physical Items) (3h5r-qv5w)
 **All rows?** No, 5 example rows.
 **Libraries used:** RSocrata
+
+### [Add ItemType descriptions to "Checkouts By Title (Physical Items)"](https://github.com/SPLOpenData/SPL-Open-Data-Merges/blob/master/ItemType%20descriptions.R)
+**Merges:** Integrate library System (ILS) Data Dictionary (pbt3-ytbc)
+**With:** Checkouts By Title (Physical Items) (3h5r-qv5w)
+**All rows?** No, 5 example rows.
+**Libraries used:** RSocrata
